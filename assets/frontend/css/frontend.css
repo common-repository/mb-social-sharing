@@ -1,0 +1,17 @@
+.social a{ display:inline-block; margin:10px 10px 5px 0; padding:10px 15px; color:#fff; font-weight:bold; text-align:center; text-decoration:none; border-radius:5px; -moz-border-radius:5px; -o-border-radius:5px; -webkit-border-radius:5px; -ms-border-radius:5px; }
+
+.social a:visited { color: #fff }
+
+/*Twitter*/ .twitter{ background:#1da1f2; }
+
+/*Facebook*/ .facebook{ background:#3B5998; }
+
+/*Google Plus*/ .google-plus{ background:#D34836; }
+
+/*LinkedIn*/ .linkedin{ background:#047EB0; }
+
+/*Reddit*/ .reddit{ background:#FF4504; }
+
+/*Digg*/ .digg{ background:#000000; }
+
+/*Pinterest*/ .pinterest{ background:#CA2026; }
